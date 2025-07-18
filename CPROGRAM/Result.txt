@@ -1,0 +1,13 @@
+
+-------------Result---------------
+ Rol no       :4201824
+ Name         :tejas
+ subject 1    :s
+ Mark 1       :0.000000
+ subject 2    :s
+ Mark 2       :0.000000
+ subject 3    :sss
+ Mark 3       :0.000000
+ total        :0.000000
+ avg          :0.000000
+ Grade        :F

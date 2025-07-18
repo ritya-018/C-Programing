@@ -35,7 +35,7 @@ int main()
     pyamt=total-disam;
     printf("\nProduct id  :%d",id);
     printf("\nProduct name:%s",nm);
-    printf("\ntotal amount:%d",total);
+    printf("\n total      :%d",total);
     printf("\nDiscount amt:%d",disam);
     printf("\npercentage  :%d",disp);
     return 0;

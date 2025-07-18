@@ -1,0 +1,4 @@
+
+..........Edetail..........
+Enter total salary:49500.000000
+the tax iss:5
