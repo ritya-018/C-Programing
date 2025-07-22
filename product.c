@@ -38,5 +38,6 @@ int main()
     printf("\ntotal amount:%d",total);
     printf("\nDiscount amt:%d",disam);
     printf("\npercentage  :%d",disp);
+    
     return 0;
 }
